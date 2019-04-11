@@ -1,0 +1,44 @@
+
+
+h1 {
+  color: rgb(12, 173, 167);
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  color: rgb(12, 173, 167);
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+
+p {
+  font-family: sans-serif;
+  font-size: 12
+}
+
+.container {
+  background-color: white;
+}
+
+.navbar {
+  padding-left: 50px;
+}
+
+body { 
+  padding-top: 35px !important;
+}
+
+.navbar-brand {
+  background-color: rgb(12, 173, 167);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+
